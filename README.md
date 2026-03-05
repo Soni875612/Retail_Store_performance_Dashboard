@@ -108,6 +108,9 @@ The raw data was converted into an Excel Table (`Ctrl + T`) named **Retail_Table
 
 ---
 
+<img width="1309" height="658" alt="image" src="https://github.com/user-attachments/assets/40692a3c-bd17-4424-ba38-8062920965c0" />
+
+
 ## ✅ How to Use
 
 1. Open `Retail_Store_Performance_Dashboard.xlsx` in Microsoft Excel
